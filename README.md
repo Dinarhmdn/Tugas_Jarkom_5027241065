@@ -47,3 +47,9 @@
 
 
 
+# CIDR
+
+<img width="1470" height="956" alt="Screenshot 2025-11-11 at 20 00 50" src="https://github.com/user-attachments/assets/fd981388-f01d-4d55-bb12-d16c937ad28f" />
+
+
+
