@@ -27,6 +27,6 @@
 | A6  | 2 host | /30  |
 | **Total** | **782 host** | **/22** |
 
-# VLSM
+# Pohon VLSM
 <img width="1008" height="723" alt="Screenshot 2025-11-11 at 20 06 24" src="https://github.com/user-attachments/assets/7a1d1338-e47f-47da-a22c-85a858deeaa2" />
 
